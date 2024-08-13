@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KaNroyIiMoc2n5+tAbo00sHtPFsMT8hDDK4KNvmTnq0=",
+  "Source": "ServerSideApp",
+  "BasePath": "_content/ServerSideApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
